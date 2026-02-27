@@ -141,9 +141,11 @@ Introduce cross-selling and upselling initiatives
 Monitor YTD vs full-year performance comparisons
 
 
+
 📊 Dashboard Preview
 
-<img width="1302" height="735" alt="image" src="https://github.com/user-attachments/assets/5fec0a87-597d-494e-80f8-8dd9991c2e55" />
+<img width="1373" height="728" alt="image" src="https://github.com/user-attachments/assets/887a0054-1b72-4200-9124-4782c1f6e1cd" />
+
 
 
 🚀 Project Workflow
